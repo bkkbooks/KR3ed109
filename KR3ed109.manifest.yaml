@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed109_000.yaml, hash: 'sha256:b97d0a48dd935df7d33adccda6f72effd57244b9fcc8f3f2bb69d50d10ca2f53'}
+  - {seq: 0, filename: KR3ed109_000.yaml, hash: 'sha256:818b28d617b2f9c6526852b8c97bf04010847002883141352d89f074a4da07d2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed109_000.markers.yaml, hash: 'sha256:2d45e78dae599a0e52eedf578c2157fc6860be8d935f6eabceaa4643a217252e'}
+  - {seq: 0, role: markers, filename: assets/KR3ed109_000.markers.yaml, hash: 'sha256:f9605af2170ca6c7ee17dedadfb371c1853d1dafec1678ac53f7139f483c0ff1'}
 table_of_contents:
 - ref:
     seq: 0
@@ -351,7 +351,4 @@ table_of_contents:
   label: 外科補遺
   type: section
   level: 1
-hash: sha256:b2a2e0115c47846dd28cb31d5243ba59f6554005a6236493933afabae0f770d8
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:93ce5748fdf020ccbaad4ac348f392663177d00c604d6c3c4817ebd273a8e06d
