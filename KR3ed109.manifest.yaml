@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ed109/v1
 canonical_location: https://kanripo.org/bkk/KR3ed109/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 濟世神驗良方
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed109_000.yaml, hash: 'sha256:818b28d617b2f9c6526852b8c97bf04010847002883141352d89f074a4da07d2'}
+  - {seq: 0, filename: KR3ed109_000.yaml, hash: 'sha256:b1a844901c76cbd0daff446785ada4ef739d493820e07ddba3da504a04f8b1a6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed109_000.markers.yaml, hash: 'sha256:f9605af2170ca6c7ee17dedadfb371c1853d1dafec1678ac53f7139f483c0ff1'}
+  - {seq: 0, role: markers, filename: assets/KR3ed109_000.markers.yaml, hash: 'sha256:b5a0ce52e14ba1429c51ae5f62ba84cd8ba3719b5a7b475e34e459e2083ca15d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -351,4 +351,7 @@ table_of_contents:
   label: 外科補遺
   type: section
   level: 1
-hash: sha256:93ce5748fdf020ccbaad4ac348f392663177d00c604d6c3c4817ebd273a8e06d
+hash: sha256:6059c019ed1f9aed1800e4f23d22ecdc3a46caec6715b43ec285acb0090ac7de
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
