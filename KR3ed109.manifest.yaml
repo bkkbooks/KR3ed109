@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ed109_000.yaml, hash: 'sha256:b1a844901c76cbd0daff446785ada4ef739d493820e07ddba3da504a04f8b1a6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed109_000.markers.yaml, hash: 'sha256:b5a0ce52e14ba1429c51ae5f62ba84cd8ba3719b5a7b475e34e459e2083ca15d'}
+  - {seq: 0, role: markers, filename: assets/KR3ed109_000.markers.yaml, hash: 'sha256:dfd749d9b8cc1993a9789bff42524396e4933fa61db8aca706aa0731b2d5b26e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -351,7 +351,7 @@ table_of_contents:
   label: 外科補遺
   type: section
   level: 1
-hash: sha256:6059c019ed1f9aed1800e4f23d22ecdc3a46caec6715b43ec285acb0090ac7de
+hash: sha256:f623de59eb1f91cefd8830006164c99b1b07f6cef8343b9781add7a83e9c0055
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

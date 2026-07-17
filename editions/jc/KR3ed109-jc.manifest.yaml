@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ed109_000-jc.yaml, hash: 'sha256:818b28d617b2f9c6526852b8c97bf04010847002883141352d89f074a4da07d2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed109_000-jc.markers.yaml, hash: 'sha256:fc620907bdbc5a8cf44f58009d43a0232e84350df1ec92b63da14b1fe40c5942'}
+  - {seq: 0, role: markers, filename: assets/KR3ed109_000-jc.markers.yaml, hash: 'sha256:71dfa0007fa0cd43845e7aabf525c6511acdf6e35c780e0ef67904f6c83cd7e2'}
 table_of_contents:
 - ref:
     seq: 0
@@ -351,4 +351,4 @@ table_of_contents:
   label: 外科補遺
   type: section
   level: 1
-hash: sha256:0037c6025f11c9a2d7c4160fc7756812cd6e6796bfc708507e26bb3c0f21a334
+hash: sha256:6e86ac521f4b2a876f0e41a58aae64b76f6b63f3559a2923387d0ad4aa3597da
